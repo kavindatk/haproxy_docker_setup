@@ -1,4 +1,4 @@
-# 04. Docker and HAProxy Setup for 3-NameNode Hadoop-Hive Cluster 
+# Part 4: Docker and HAProxy Setup for 3-NameNode Hadoop-Hive Cluster 
 
 <br/><br/>
 <p align="center">
